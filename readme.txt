@@ -12,6 +12,8 @@ Bible verses about prosperity. Prosperity Scriptures. Verses related to money, w
 
 This plugin displays random bible verses about prosperity on every admin page. Prosperity scriptures tell us we can be wealthy, have prosperity, and live in abundance. These are daily reminders will help you create a prosperous mindset and set you on the biblical path to create wealth.
 
+For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/prosperity/" title="wp plugin Prosperity">Prosperity WP Plugin</a>
+
 == Installation ==
 
 1. Upload the `prosperity` directory to the `/wp-content/plugins/` directory
