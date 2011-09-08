@@ -24,5 +24,3 @@ For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress
 **Aug. 4, 2011 - v1.0**
 
 * First Release
-
-
