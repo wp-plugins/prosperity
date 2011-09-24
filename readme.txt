@@ -1,7 +1,7 @@
 === Prosperity ===
 Contributors: hahncgdev
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AZLPGKSCJBPKS
-Tags: bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin tools, donations, donate, wp plugin
+Tags: bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin tools, donations, donate, wp plugin, schriften, scrittura, escrituras, écritures
 Requires at least: 2.6
 Tested up to: 3.2
 Stable tag: 1.0
@@ -24,3 +24,7 @@ For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress
 **Aug. 4, 2011 - v1.0**
 
 * First Release
+
+
+
+
