@@ -4,19 +4,23 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: bible, bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin tools, donations, donate, wp plugin, escrituras
 Requires at least: 2.6
 Tested up to: 3.2
-Stable tag: 1.5
+Stable tag: 2.0
 
 Bible verses about prosperity. Prosperity Scriptures. Displays random scriptures in posts and admin panel.
 
 == Description ==
 
-This plugin displays random bible verses about prosperity in posts using a shortcode. This plugin also displays random prosperity scriptures on every admin page. These are daily reminders will help you create a prosperous mindset and set you on the biblical path to create wealth.
+This plugin displays random bible verses concerning prosperity in posts using a shortcode. This plugin also displays random prosperity scriptures on every admin page. These are daily reminders will help you create a prosperous mindset and set you on the biblical path to create wealth.
+
+**Newly Added: Widget functionality to be able to display scriptures in sidebar on every page.**
 
 **Now with shortcode functionality to display scriptures in posts.**
 
 *Prosperity scriptures tell us we can be wealthy, have prosperity, and live in abundance.*
 
 For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/prosperity/" title="wp plugin Prosperity">Prosperity WP Plugin</a>
+
+Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/" title="Custom Post Donations Pro - PayPal Donations in WordPress">Custom Post Donations Pro</a>, <a href="http://wordpress.org/extend/plugins/wp-easy-gallery/" title="WP Easy Gallery">Easy Gallery</a>, <a href="http://wordpress.org/extend/plugins/custom-post-donations/" title="Custom Post Donations - PayPal Donations in WordPress">Custom Post Donations</a>
 
 == Installation ==
 
@@ -33,6 +37,12 @@ For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress
 
 * Added shortcode functionality to allow displaying of random scriptures in posts
 * Newly added admin panel
+
+**Oct. 28, 2011 - v2.0**
+
+* Added widget functionality to allow displaying of random scriptures in sidebar
+* Code refactored into classes to prevent namespace conflicts
+* Scriptures added
 
 
 
