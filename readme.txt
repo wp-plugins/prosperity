@@ -20,7 +20,7 @@ This plugin displays random bible verses concerning prosperity in posts using a 
 
 For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/prosperity/" title="wp plugin Prosperity">Prosperity WP Plugin</a>
 
-Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/" title="Custom Post Donations Pro - PayPal Donations in WordPress">Custom Post Donations Pro</a>, <a href="http://wordpress.org/extend/plugins/wp-easy-gallery/" title="WP Easy Gallery">Easy Gallery</a>, <a href="http://wordpress.org/extend/plugins/custom-post-donations/" title="Custom Post Donations - PayPal Donations in WordPress">Custom Post Donations</a>
+Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/" title="Custom Post Donations Pro - PayPal Donations in WordPress">Custom Post Donations Pro</a>, <a href="http://wordpress.org/extend/plugins/wp-easy-gallery/" title="WP Easy Gallery">WP Easy Gallery</a>, <a href="http://wordpress.org/extend/plugins/custom-post-donations/" title="Custom Post Donations - PayPal Donations in WordPress">Custom Post Donations</a>
 
 == Installation ==
 
@@ -43,6 +43,8 @@ Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/cust
 * Added widget functionality to allow displaying of random scriptures in sidebar
 * Code refactored into classes to prevent namespace conflicts
 * Scriptures added
+
+
 
 
 
