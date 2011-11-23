@@ -56,8 +56,7 @@ if (!class_exists("Prosperity")) {
 			
 			if ( $file == plugin_basename(__FILE__) ) {			
 				$links[] = '<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YEM6BT83GHFD4">' . __('Donate', 'prosperity') . '</a>';
-				$links[] = '<a href="http://lifetoday.org/outreaches/">' . __('Outreaches', 'prosperity') . '</a>';
-				
+				$links[] = '<a href="http://lifetoday.org/outreaches/">' . __('Outreaches', 'prosperity') . '</a>';				
 			}
 			return $links;
 		}		
@@ -107,8 +106,7 @@ if (!class_exists("Prosperity")) {
 			//Include Widget
 			include("classes/widget.php");		
 			register_widget("Prosperity_Widget");
-		}
-		
+		}		
 	}
 }
 
@@ -116,4 +114,5 @@ if (class_exists("Prosperity")) {
     global $ob_Prosperity;
 	$ob_Prosperity = new Prosperity();
 }
+
 ?>

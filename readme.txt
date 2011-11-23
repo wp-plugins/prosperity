@@ -44,8 +44,3 @@ Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/cust
 * Code refactored into classes to prevent namespace conflicts
 * Scriptures added
 
-
-
-
-
-
