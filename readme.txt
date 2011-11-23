@@ -43,4 +43,3 @@ Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/cust
 * Added widget functionality to allow displaying of random scriptures in sidebar
 * Code refactored into classes to prevent namespace conflicts
 * Scriptures added
-
