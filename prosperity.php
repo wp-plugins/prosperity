@@ -1,13 +1,13 @@
 <?php
 /**
  * @package Prosperity_Plugin
- * @version 2.0
+ * @version 2.0.1
  */
 /*
 Plugin Name: Prosperity
 Description: When activated you will randomly see prosperity scriptures in posts with shortcode and in the upper right of your admin screen on every page. Widget will be available in 'Widgets' menu after activation. See admin panel for shortcode to display scriptures in posts.
 Author: Tyson Hahn
-Version: 2.0
+Version: 2.0.1
 Author URI: http://labs.hahncreativegroup.com/wordpress-plugins/prosperity/
 */
 if (!class_exists("Prosperity")) {
