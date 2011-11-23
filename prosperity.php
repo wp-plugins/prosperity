@@ -91,9 +91,18 @@ if (!class_exists("Prosperity")) {
 					<p><em>Please consider donating to the continued development of this plugin. Thanks.</em></p>
 					<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YEM6BT83GHFD4" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></a></p>
 					<br />
-                    <p><strong>Try Custom Post Donations Pro</strong><br /><em>This WordPress plugin will allow you to create unique customized PayPal donation widgets to insert into your WordPress posts or pages and accept donations.</em></p>
                     <p><a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/"><img src="http://labs.hahncreativegroup.com/wp-content/uploads/2011/10/CustomPostDonationsPro-Banner.gif" width="374" height="60" border="0" alt="Custom Post Donations Pro" /></a></p>
-                    <br />
+                    <h2><a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/">Try Custom Post Donations Pro</a></h2>
+                    <p><em>This WordPress plugin will allow you to create unique customized PayPal donation widgets to insert into your WordPress posts or pages and accept donations.</em></p>
+                     <ul>
+                        <li>Add customized donation forms to your posts or pages</li>
+                        <li>Designate alternate PayPal accounts for donations</li>
+                        <li>Add donation form titles</li>
+                        <li>Manage multiple donation forms from the easy access admin interface</li>
+                        <li>Ability to edit donation widgets</li>
+                     </ul>
+                     <strong><a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/">Custom Post Donations Pro - only $14.95</a></strong>                    
+                    <br /><br />
 					<p><em>Also consider giving to one of these amazing outreaches</em></p>
 					<p><a href="http://lifetoday.org/outreaches/" target="_blank">LIFE today Outreaches</a></p>            
 					<p><a href="http://www.jentezenfranklin.org/outreach/" target="_blank">Jentzen Franklin Ministries Outreaches</a></p>
