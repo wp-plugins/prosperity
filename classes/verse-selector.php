@@ -29,8 +29,8 @@
 		  "'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.' - <em>Jeremiah 29:11</em>",
 		  "I was young and now I am old, yet I have never seen the righteous forsaken or their children begging bread. They are always generous and lend freely; their children are blessed. - <em>Psalm 37:25-26</em>",
 		  "The Lord will indeed give what is good, and our land will yield its harvest. - <em>Psalm 85:12</em>",
-		  "Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to the overflowing, and your vats will brim over with new wine.",
-		  "But as for you, be strong and do not give up, for your work will be rewarded."
+		  "Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to the overflowing, and your vats will brim over with new wine. - <em>Proverbs 3:9-10</em>",
+		  "But as for you, be strong and do not give up, for your work will be rewarded. - <em>2 Chronicles 15:7</em>"
 					 );	
   
 		  // get random index number	

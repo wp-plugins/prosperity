@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: bible, bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin tools, donations, donate, wp plugin, escrituras
 Requires at least: 2.6
 Tested up to: 3.2
-Stable tag: 2.0
+Stable tag: 2.0.1
 
 Bible verses about prosperity. Prosperity Scriptures. Displays random scriptures in posts and admin panel.
 
@@ -44,7 +44,7 @@ Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/cust
 * Code refactored into classes to prevent namespace conflicts
 * Scriptures added
 
+**Nov. 22, 2011 - v2.0.1**
 
-
-
+** Added missing verse citations
 
