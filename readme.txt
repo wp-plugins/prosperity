@@ -48,3 +48,5 @@ Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/cust
 
 ** Added missing verse citations
 
+
+
