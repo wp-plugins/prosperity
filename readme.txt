@@ -20,7 +20,7 @@ This plugin displays random bible verses concerning prosperity in posts using a 
 
 For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/prosperity/" title="wp plugin Prosperity">Prosperity WP Plugin</a>
 
-Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/" title="Custom Post Donations Pro - PayPal Donations in WordPress">Custom Post Donations Pro</a>, <a href="http://wordpress.org/extend/plugins/wp-easy-gallery/" title="WP Easy Gallery">WP Easy Gallery</a>, <a href="http://wordpress.org/extend/plugins/custom-post-donations/" title="Custom Post Donations - PayPal Donations in WordPress">Custom Post Donations</a>
+Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-gallery-plugin/" title="Easy WordPress Image Gallery">WP Easy Gallery Pro</a>, <a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/" title="Custom Post Donations Pro - PayPal Donations in WordPress">Custom Post Donations Pro</a>, <a href="http://wordpress.org/extend/plugins/wp-easy-gallery/" title="WP Easy Gallery">WP Easy Gallery</a>, <a href="http://wordpress.org/extend/plugins/custom-post-donations/" title="Custom Post Donations - PayPal Donations in WordPress">Custom Post Donations</a>, <a href="http://wordpress.org/extend/plugins/wp-translate/">WP Translate</a>
 
 == Installation ==
 
@@ -47,6 +47,4 @@ Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/cust
 **Nov. 22, 2011 - v2.0.1**
 
 ** Added missing verse citations
-
-
 
