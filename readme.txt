@@ -1,7 +1,7 @@
 === Prosperity ===
 Contributors: hahncgdev
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YEM6BT83GHFD4
-Tags: bible, bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin tools, donations, donate, wp plugin, escrituras
+Tags: bible, bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin, donations, donate, wp plugin, escrituras
 Requires at least: 2.6
 Tested up to: 3.2
 Stable tag: 2.0.1
@@ -20,7 +20,7 @@ This plugin displays random bible verses concerning prosperity in posts using a 
 
 For more information visit: <a href="http://labs.hahncreativegroup.com/wordpress-plugins/prosperity/" title="wp plugin Prosperity">Prosperity WP Plugin</a>
 
-Other plugins: <a href="http://labs.hahncreativegroup.com/wordpress-gallery-plugin/" title="Easy WordPress Image Gallery">WP Easy Gallery Pro</a>, <a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/" title="Custom Post Donations Pro - PayPal Donations in WordPress">Custom Post Donations Pro</a>, <a href="http://wordpress.org/extend/plugins/wp-easy-gallery/" title="WP Easy Gallery">WP Easy Gallery</a>, <a href="http://wordpress.org/extend/plugins/custom-post-donations/" title="Custom Post Donations - PayPal Donations in WordPress">Custom Post Donations</a>, <a href="http://wpplugins.com/plugin/986/email-obfuscate/">Email Obfuscate</a> and <a href="http://wordpress.org/extend/plugins/wp-translate/">WP Translate</a>
+Other plugins: <a href='http://www.wordpress-photo-gallery.com' title='Responsive WordPress Photo Gallery'>ReFlex Gallery</a>, <a href="http://labs.hahncreativegroup.com/wordpress-gallery-plugin/" title="Easy WordPress Image Gallery">WP Easy Gallery Pro</a>, <a href="http://labs.hahncreativegroup.com/wordpress-plugins/custom-post-donations-pro/" title="Custom Post Donations Pro - PayPal Donations in WordPress">Custom Post Donations Pro</a>, <a href="http://wordpress.org/extend/plugins/wp-easy-gallery/" title="WP Easy Gallery">WP Easy Gallery</a>, <a href="http://wordpress.org/extend/plugins/custom-post-donations/" title="Custom Post Donations - PayPal Donations in WordPress">Custom Post Donations</a>, <a href="http://wpplugins.com/plugin/986/email-obfuscate/">Email Obfuscate</a> and <a href="http://wordpress.org/extend/plugins/wp-translate/">WP Translate</a>
 
 == Installation ==
 
