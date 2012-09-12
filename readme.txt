@@ -1,12 +1,12 @@
 === Prosperity ===
 Contributors: hahncgdev
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YEM6BT83GHFD4
-Tags: bible, bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin, donations, donate, wp plugin, escrituras
+Tags: bible, bible verses about prosperity, wealth, bible verses, prosperity, scriptures, admin, donations, donate, wp plugin, plugin, widget, escrituras
 Requires at least: 2.6
 Tested up to: 3.2
 Stable tag: 2.0.1
 
-Bible verses about prosperity. Prosperity Scriptures. Displays random scriptures in posts and admin panel.
+Displays random scriptures in posts and admin panel. Bible verses about prosperity. Prosperity Scriptures.
 
 == Description ==
 
