@@ -124,5 +124,4 @@ if (class_exists("Prosperity")) {
     global $ob_Prosperity;
 	$ob_Prosperity = new Prosperity();
 }
-
 ?>

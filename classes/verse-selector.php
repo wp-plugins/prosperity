@@ -40,4 +40,5 @@
 		  return wptexturize( $verse[ $index ] );
 	  }
   }
+  
 ?>
